@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-modal": "^3.13.1",
     "@types/styled-components": "^5.1.23",
     "miragejs": "^0.1.43"
   }
